@@ -1,5 +1,8 @@
 # Research Publication Analysis
 
+## <u>Note</u>: *This pattern makes use of an agentic approach to analyse one research publication. For a multi-agent pattern making use of SLM and LLM-based agents capable of processing multiple research publications at scale, refer to [https://github.com/ajananth/research-pub-slm-llm-edu](https://github.com/ajananth/research-pub-slm-llm-edu).*
+
+
 This sample code demonstrates the use of a multi-agent pattern to analyse research publications. The pattern makes use of agents specialised in interpreting specific areas such as the fields of research, affiliation to universities and information on research grants & funding.
 
 The solution is based on the multi-agent framework as described here - https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/building-a-multimodal-multi-agent-framework-with-azure-openai/ba-p/4084007
